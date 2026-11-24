@@ -12,11 +12,9 @@
 <hr />
 
 # 💫 About Me:
-🔭 I'm currently focused on Data Structures and Algorithms.<br>🌱 I'm continuously learning and deepening my knowledge in Flutter.<br>👯 I'm eager to collaborate on more Application Development projects.<br>👨‍💻 Explore my work: [My Github Repositories](https://github.com/Kunal-3004)<br>📫 Connect with me: jassi23309@gmail.com
+🔭 I'm currently focused on Data Structures and Algorithms.<br>🌱 I'm continuously learning and deepening my knowledge in Flutter.<br>👯 I'm eager to collaborate on more Application Development projects.<br>👨‍💻 Explore my work: [My Github Repositories](https://github.com/Jassi9478)<br>📫 Connect with me: jassi23309@gmail.com
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gurjar.3004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunal-bansal-b62870284) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunalbansal2030@gmail.com) 
 
 # 💻 Tech Stack:
 
